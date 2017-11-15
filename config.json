@@ -1,6 +1,6 @@
 {
     "exchanges": ["bittrex", "poloniex"],
-    "interval": 0.5,
+    "interval": 1,
     "check": 15,
     "lost": 50,
     "to": "christiandbf@hotmail.com",
